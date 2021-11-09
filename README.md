@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">QR Code Generator</h1> 
+  <h1 align="center">QR Code Reader</h1> 
 </div>
   
  <div align="center">
